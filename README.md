@@ -8,12 +8,11 @@ PlazaRoute is a Python Webservice to provide public transport and pedestrian rou
 
 A QGIS plugin as a frontend is available here: <https://github.com/PlazaRoute/qgis>
 
-
 Python Packages Reference: <https://plazaroute.github.io/plazaroute/>
 
 ## Research
 
-This project was created as a part of a student research project at the University of Applied Sciences Rapperswil (HSR). The full text can be found [here](https://github.com/PlazaRoute/doc).
+This project was created as a part of a student research project at the University of Applied Sciences Rapperswil (HSR). The full text can be found [here](https://github.com/PlazaRoute/doc) and in [this thesis docs](https://eprints.hsr.ch/625/).
 
 ## Acknowledgments
 
